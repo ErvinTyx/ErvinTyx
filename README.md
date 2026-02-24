@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErvinTyx
+- 👋 Hi, I’m Ervin
 - 👀 I’m interested in Machine learning, AI,WEB3
 - 🌱 I’m currently learning Software Engineering 
 - 📫 How to reach me yxteoh-wp22@student.tarc.edu.my
